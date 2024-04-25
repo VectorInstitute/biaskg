@@ -22,4 +22,4 @@ For open source models, please refer to `kg_benchmark/sbatch_bbq.sh` and `kg_ben
 
 ## Preprocessed data
 
-Please contact 14cfl@queensu.ca for the 
+(tentative) Please contact 14cfl@queensu.ca for the data. Thank you!

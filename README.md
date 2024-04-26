@@ -1,6 +1,9 @@
 # BiasKG
 
-This is the repository for **BiasKG: Adversarial Knowledge Graphs to Induce Bias in Large Language Models** [paper link here]()
+This is the repository for **BiasKG: Adversarial Knowledge Graphs to Induce Bias in Large Language Models** 
+[paper link here]()
+[Access the data here](https://drive.google.com/drive/folders/1cW73PIatY0krpVzAL260TI2EnToVsofe?usp=drive_link)
+
 
 ## Generating the knowledge graph
 
